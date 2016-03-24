@@ -1,0 +1,26 @@
+ li a {
+	float: left;
+	padding: 13px 14px;
+	display: block;
+	text-decoration: none;
+	color: white;
+	
+}
+ul {
+	overflow: hidden;
+	list-style-type: none;
+	background: #6B6969;
+	box-shadow: 2px 1px 5px grey;
+	padding: 0px;
+	font-family: "Segoe UI",Arial,sans-serif;
+	font-size: 16px;
+}
+a:hover {
+   background-color: #131212;
+}
+a:active {
+	background-color: #73D44D;
+}
+.right-nav {
+	float: right;
+}
