@@ -1,2 +1,1 @@
-# sample
-sample code
+This is a sample test file 
